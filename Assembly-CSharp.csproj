@@ -45,7 +45,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\directionChanger.cs" />
      <Compile Include="Assets\killDuck.cs" />
+     <Compile Include="Assets\moveDuck.cs" />
      <Compile Include="Assets\spawnDuck.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
