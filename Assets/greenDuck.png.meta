@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: e57c88d8e31b54ab69ee00037ccde469
-timeCreated: 1447878133
+timeCreated: 1449524346
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -12,6 +12,19 @@ TextureImporter:
     21300010: greenDuckRightB
     21300012: greenDuckRightA
     21300014: greenDuckLeftA
+    21300016: greenDuck_0
+    21300018: greenDuck_1
+    21300020: greenDuck_2
+    21300022: greenDuck_3
+    21300024: greenDuck_4
+    21300026: greenDuck_5
+    21300028: greenDuck_6
+    21300030: greenDuck_7
+    21300032: greenDuck_8
+    21300034: greenDuck_9
+    21300036: greenDuck_10
+    21300038: greenDuck_11
+    21300040: greenDuck_12
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -58,85 +71,135 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: greenDuckLeftUpB
+    - name: greenDuck_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 10
-        width: 125
-        height: 155
+        y: 9
+        width: 126
+        height: 156
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: greenDuckRightUpB
+    - name: greenDuck_1
       rect:
         serializedVersion: 2
-        x: 165
-        y: 5
-        width: 125
-        height: 155
+        x: 164
+        y: 4
+        width: 127
+        height: 157
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: greenDuckRightUpA
+    - name: greenDuck_2
       rect:
         serializedVersion: 2
-        x: 345
+        x: 344
         y: 0
-        width: 135
-        height: 155
+        width: 137
+        height: 156
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: greenDuckLeftUpA
+    - name: greenDuck_3
       rect:
         serializedVersion: 2
-        x: 533
-        y: 3
-        width: 135
-        height: 155
-      alignment: 0
-      pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-    - name: greenDuckLeftB
-      rect:
-        serializedVersion: 2
-        x: 713
+        x: 529
         y: 0
-        width: 170
-        height: 120
+        width: 137
+        height: 156
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: greenDuckRightB
+    - name: greenDuck_4
       rect:
         serializedVersion: 2
-        x: 940
+        x: 1661
+        y: 131
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenDuck_5
+      rect:
+        serializedVersion: 2
+        x: 1671
         y: 6
-        width: 170
-        height: 120
+        width: 137
+        height: 147
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: greenDuckRightA
+    - name: greenDuck_6
       rect:
         serializedVersion: 2
-        x: 1167
-        y: 5
-        width: 170
-        height: 100
+        x: 1866
+        y: 6
+        width: 92
+        height: 157
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-    - name: greenDuckLeftA
+    - name: greenDuck_7
       rect:
         serializedVersion: 2
-        x: 1400
-        y: 2
-        width: 170
-        height: 100
+        x: 1986
+        y: 6
+        width: 92
+        height: 157
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenDuck_8
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 0
+        width: 172
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenDuck_9
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 172
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenDuck_10
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 4
+        width: 172
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenDuck_11
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 4
+        width: 172
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: greenDuck_12
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 61
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
